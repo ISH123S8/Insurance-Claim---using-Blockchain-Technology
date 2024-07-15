@@ -14,6 +14,9 @@ A user-friendly interface for submitting and tracking claims. 
 
 Create Metamask Wallets for the Stakeholders who involved in the Ethereum Network using local testnet/RPC that is Ganache or you can use virtual environment in remix ide.
 
+![image](https://github.com/user-attachments/assets/06da9656-0cc9-43f2-8597-a822a7e8aa5c)
+
+
 User/Stake holder logs in, uploads medical/lab test bills and submits it for insurance. Notifications are sent to hospital, lab admin and Insurance admin.
 
 Hospital admin logs in, verifies and approves the bills. This approval is stored on the smart contract
