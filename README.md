@@ -21,6 +21,9 @@ User/Stake holder logs in, uploads medical/lab test bills and submits it for in
 
 Hospital admin logs in, verifies and approves the bills. This approval is stored on the smart contract
 
+![image](https://github.com/user-attachments/assets/02a2bb74-a2b5-46a7-8fa0-1f4912ba3c32)
+
+
 Lab admin approves the lab test bills. This approval is also stored on the smart contract
 
 Insurance admin can check for approvals of hospital and lab after which he will calculate the claim amount and do the claim.
